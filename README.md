@@ -1,2 +1,1 @@
-Sign In and Sign up code is here not integrated yet
-Search code can be accessed here
+Backend code for the datbase and to install after cloning run command npm install after entering in the backend directory and then npm start
